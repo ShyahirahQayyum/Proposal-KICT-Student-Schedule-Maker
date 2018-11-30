@@ -27,7 +27,7 @@ When it comes to the academic success of students in college, learning to manage
 It is inevitable that IIUM students will face the difficulties whenever they want to pre-register subjects for the upcoming semester schedule. Normally, they will arrange their schedule by doing it manually as writing it on somewhere and searching the desired subjects one by one while they also have to make sure the section they are going to add are not clashed with any other subjects, This actually is really time-consuming. In response to this problem, our study proposes to investigate  the solution for creating a schedule systematically and time-saving despite they are going through a bustle life as a student.
 
 1.3 PROJECT OBJECTIVE
-The objective of the project is to ease students arranging the timetables in such a way to save their time. Besides, to generate many options of the schedule. In addition, to avoid the subjects added by students from clashing with one another.
+The objective of the project is to ease students arranging the timetables in such a way to save their time. Besides, to generate many options of the schedule in terms of time arrangements. In addition, to avoid the subjects added by students from clashing with one another. The report that we will produce is the Final Report. 
 
 
 1.4 PROJECT SCOPE
