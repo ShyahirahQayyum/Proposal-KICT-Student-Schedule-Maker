@@ -16,6 +16,11 @@ SITI SHYAHIRAH QAYYUM BINTI NASSER 1519536
 
  
 1.1 INTRODUCTION
+The mobile application that the team is going to develop, KICT Student Schedule Maker is based on the currently existing web application called SemiAutomatic IIUM Schedule Maker. The existing application has a wider target user which is the whole IIUM community and it is also web based while the application that the team is developing has a smaller target user, which is only for Kulliyyah of Information and Communication Technology but in a form of a mobile application.
+
+The mobile application aims to help the students to slot the subjects they are taking for the semester into their daily time table easily by just clicking the ‘add’ button next to the subject they want and the app will automatically slot it at the right days and time according to the subject’s section. Therefore, students can save time as they do not have to manually write down the time table themselves and also avoid any confusion or mix up their schedule especially during the first few weeks of the semester. 
+
+The main functionalities that will be included in the app are; insert details upon opening app, search subject and selection of section, add and delete subject, add tasks or reminders for subjects such as assignments, quizzes or presentations, and also slot subjects and display of schedule.
 
 
 
@@ -41,6 +46,7 @@ The objective of the project is to ease students arranging the timetables in suc
 
 
 1.5 CONSTRAINTS
+The major constraints that the team may face is the time as there is only about four to five weeks to complete the proposed mobile application project with limited experience of mobile application development and also the team's commitment to other subjects' projects and examinations. Besides that, users’ commitment may also be the constraint as users may only use the application seasonally, which is during the early stage of the semesters only until they start to memorize their daily schedule. However, the add task feature to the subject may attract the users to keep on using the application throughout the semester.
 
 
 
@@ -59,7 +65,7 @@ By developing this KICT Student Schedule Maker, our targeted user; KICT students
 
 
 1.8 SUMMARY
-
+By having this proposed mobile application, it could help change the students' perception towards the pre-registration process to be a pleasant experience instead of a process that cause frustrations to them as it could save their time to arrange their subjects for the current or coming semester by having an application that sorts their class schedule for them. This application is hoped to leave a long lasting positive imprint and benefit to the users.
 
 
 1.9 REFERENCES
