@@ -37,13 +37,14 @@ The objective of the project is to ease students arranging the timetables in suc
 
 1.4 PROJECT SCOPE
 1.4.1 Scope
+We will develop the schedule maker for students of KICT IIUM where students can arrange their schedule using the application by choosing the subjects they want to add for the upcoming semester and the application will automatically make it in schedule so that they can ensure that the subject is not clash with other subjects and they can arrange schedule nicely without the need of creating the timetable manually.
 
 
 1.4.2 Targeted User
-
+Our targeted users are all students of Kulliyyah of Information and Communication Technology (KICT) in IIUM Gombak, both gender male and female from first year to final year first semester. The users will use this application to arrange their schedule for the upcoming subject pre-registration.
  
 1.4.3 Specific Platform
-
+This project need the network, details and list of the subjects that are available for the upcoming subject pre-registration. The details must be in line with the IIUM schedules that are provided by university and kulliyyah. Our kulliyyah does not yet to have the application for students to arrange the schedule before they can pre-register the subject.
 
 1.5 CONSTRAINTS
 The major constraints that the team may face is the time as there is only about four to five weeks to complete the proposed mobile application project with limited experience of mobile application development and also the team's commitment to other subjects' projects and examinations. Besides that, users’ commitment may also be the constraint as users may only use the application seasonally, which is during the early stage of the semesters only until they start to memorize their daily schedule. However, the add task feature to the subject may attract the users to keep on using the application throughout the semester.
